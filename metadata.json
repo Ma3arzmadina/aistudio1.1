@@ -1,0 +1,6 @@
+{
+  "name": "OmniCode Studio",
+  "description": "Modern web-based code editor, live browser sandbox preview, multi-model AI assistant workspace, and instant project export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
